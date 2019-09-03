@@ -1,2 +1,2 @@
 # EstruturaDados
-Código fontes dos programas desenvolvidos na disciplina de Estrutura de Dados.
+Código fontes dos programas desenvolvidos na disciplina de Estrutura de Dados!
